@@ -24,7 +24,7 @@
 - **Platform:** XAMPP
 
 ## 📫 Get in Touch
-- 📍 Bangalore, Karnataka
+- 📍 Karnataka
 - 📧 Email: kouserh329@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/heena-kouser-shaik/)
 
